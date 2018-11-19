@@ -1,0 +1,45 @@
+
+.table{
+	border-collapse: collapse;
+    width: 100%; 
+    margin-top: 15px;
+}
+
+.table tr{
+	text-align: left;
+    padding: 8px;
+}
+
+.table tr td{
+	text-align: left;
+    padding: 8px;
+}
+
+.table thead tr th {
+	background-color: #e0ebf9;
+    color: black;
+}
+
+.table tr:nth-child(even){background-color: #f2f2f2}
+
+.floating-box {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.btnStyle{
+	margin: 15px 10px 15px 0px;
+}
+
+.titleStyle{
+	margin-bottom: 40px;
+	font-size: 35px;
+}
+
+.alert{
+	
+}
+
+.msgValid{
+	color: red;
+}

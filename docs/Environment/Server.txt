@@ -1,0 +1,9 @@
++Server
+	192.168.1.17/internal
++DB
+	192.168.1.17/db/
+	user: root/123456
++Host 
+    192.168.1.17
+	luongnx/123456
+	

@@ -1,0 +1,821 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"btn",
+				"btn_export"
+			],
+			[
+				"count",
+				"count_record"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"sta",
+				"start_noon_time"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"str",
+				"strtotime"
+			],
+			[
+				"date",
+				"date_diff"
+			],
+			[
+				"Da",
+				"DateTime"
+			],
+			[
+				"Con",
+				"Config"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"slc",
+				"slc_approve"
+			],
+			[
+				"app",
+				"approvedDate"
+			],
+			[
+				"slc_",
+				"slc_approve"
+			],
+			[
+				"Get",
+				"GetDepartment"
+			],
+			[
+				"order",
+				"orderBy"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"appro",
+				"approverId"
+			],
+			[
+				"overti",
+				"overtime_list"
+			],
+			[
+				"ADM",
+				"ADMIN_PATH"
+			],
+			[
+				"ADMI",
+				"ADMIN_URL"
+			],
+			[
+				"tabl",
+				"table-responsive"
+			],
+			[
+				"emplo",
+				"employee_name"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"emp",
+				"empCode"
+			],
+			[
+				"pagia",
+				"paginate"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Sear",
+				"SearchEmployee"
+			],
+			[
+				"al",
+				"all_emp"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"em",
+				"empCode"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"empl",
+				"employee"
+			],
+			[
+				"tota",
+				"totalLateTime"
+			],
+			[
+				"table",
+				"table-striped"
+			],
+			[
+				"tmp",
+				"tmp_startDate"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Gte",
+				"GetData"
+			],
+			[
+				"time",
+				"timekeeping"
+			],
+			[
+				"tim",
+				"timekeeping"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Res",
+				"respond"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nTrailingSpaces\n--------------\n\n  \n  \n      Thank you for installing Trailing Spaces\n      ----------------------------------------\n  \n      You're now ready to give trailing spaces *a hard time*!\n  \n  \n  Documentation\n  =============\n  \n  Although the usage of this plugin is dead simple, it comes with several options. All\n  details are available in the documentation, and you can read it by clicking on\n  \"Preferences / Package Settings / Trailing Spaces / Help\", or in a prettier form, by\n  browsing https://github.com/SublimeText/TrailingSpaces.\n  \n  Key Binding\n  ===========\n  \n  This plugin does not come with a default key binding for the deletion command. You can\n  pick your own key binding and define it in \"Preferences / Key Bindings - User\", or just\n  stick to using the menu entry under \"Edit\". Check the help for advice on this.\n  \n  Upgrades & Issues\n  =================\n  \n  Package Control will automatically update all packages every time the editor is started,\n  so there is nothing for you to worry about. If you however do find the plugin not to work\n  as it used to, head to the issues tracker (see links below) to report the problem.\n  \n  Useful Links\n  ============\n  \n  * Documentation & Code: https://github.com/SublimeText/TrailingSpaces\n  * Report issues / Request New Features / Roadmap: https://github.com/SublimeText/TrailingSpaces/issues\n  * Follow me on twitter: @jdvauguet\n",
+			"settings":
+			{
+				"buffer_size": 1459,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 10031,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/app",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/resources",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/routes"
+	],
+	"file_history":
+	[
+		"/C/Users/ITI_ISM/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/README.md",
+		"/C/Users/ITI_ISM/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/app/Http/Controllers/OvertimeController.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/resources/views/pages/admin/overtime/overtime_list.blade.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/resources/lang/en/admin/time_sheet.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/resources/views/pages/admin/timekeeping/all_emp.blade.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/resources/views/pages/admin/overtime/overtime_detail.blade.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/app/Http/Controllers/TimesheetController.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/app/Http/Models/Overtime.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/app/Http/Models/Timesheet.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/awesome.sublime-project",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/vendor/laravel/framework/src/Illuminate/Foundation/AliasLoader.php",
+		"/C/Users/ITI_ISM/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/resources/views/pages/admin/timekeeping/detail.blade.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/public/phpinfo.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/app/Http/Models/User.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/routes/web.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/resources/views/layouts/admin/master.blade.php",
+		"/C/xampp/htdocs/SVN_Internal_website/source/internal/config/mycnf.php",
+		"/C/xampp/htdocs/internal/routes/web.php",
+		"/C/xampp/htdocs/internal/resources/views/pages/admin/overtime/overtime_list.blade.php",
+		"/C/xampp/htdocs/internal/resources/views/layouts/admin/master.blade.php",
+		"/C/xampp/htdocs/internal/resources/views/pages/admin/overtime/overtime_detail.blade.php",
+		"/C/xampp/htdocs/internal/resources/lang/en/admin/time_sheet.php",
+		"/C/xampp/htdocs/internal/app/Http/Controllers/OvertimeController.php",
+		"/C/xampp/htdocs/internal/config/mycnf.php",
+		"/C/xampp/htdocs/internal/app/Http/Models/Overtime.php",
+		"/C/xampp/htdocs/internal/resources/views/pages/admin/timekeeping/detail.blade.php",
+		"/C/xampp/htdocs/internal/resources/views/layouts/admin/sidebar.blade.php",
+		"/C/xampp/htdocs/internal/app/Http/Controllers/TimesheetController.php",
+		"/C/xampp/htdocs/internal/app/Http/Models/Timesheet.php",
+		"/C/xampp/htdocs/internal/.env",
+		"/C/xampp/htdocs/internal/resources/assets/js/helper.js",
+		"/C/xampp/htdocs/internal/config/app.php",
+		"/C/xampp/htdocs/internal/app/Http/Models/Times_bk.php",
+		"/C/xampp/htdocs/internal/app/Http/Controllers/TimesController_bk.php",
+		"/C/xampp/htdocs/internal/app/Http/Controllers/TimesController.php",
+		"/C/xampp/htdocs/internal/resources/views/pages/admin/timekeeping/all_emp.blade.php",
+		"/C/xampp/htdocs/internal/resources/lang/en/my_lang.php",
+		"/C/xampp/htdocs/metronic_theme/themeforest-template/metronic_v4.5.4/theme/admin_4/charts_morris.html",
+		"/C/xampp/htdocs/metronic_theme/themeforest-template/metronic_v4.5.4/theme/admin_4/components_bootstrap_fileinput.html",
+		"/C/xampp/htdocs/internal/app/Http/Models/Base.php",
+		"/C/xampp/htdocs/internal/resources/views/layouts/admin/header.blade.php",
+		"/C/xampp/htdocs/internal/resources/views/layouts/admin/footer.blade.php",
+		"/C/xampp/htdocs/internal/composer.json",
+		"/C/xampp/htdocs/internal/app/Http/Response/Response.php",
+		"/C/xampp/htdocs/internal/routes/api.php",
+		"/C/xampp/htdocs/internal/app/User.php",
+		"/C/xampp/htdocs/internal/config/database.php",
+		"/C/xampp/htdocs/internal/resources/views/pages/login/page_user_login_2.blade.php",
+		"/C/xampp/htdocs/internal/resources/views/layouts/user/master.blade.php",
+		"/C/xampp/htdocs/internal/resources/views/pages/user/home/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Response/Response.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/help.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/user/master.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Validate/Validate.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Get/GetData.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/profile/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/news/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/document/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/admin/master.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/timekeeping/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/home/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Controllers/PagesController.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/timekeeping.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/profile.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/news.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/config/filesystems.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/user/header_top.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Controllers/Controller.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/user/header_menu.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/admin/sidebar.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/admin/header.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/document.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/user/pròile.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/document.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/user/pre_footer.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/user/footer.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/user/header_page.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/device.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/news.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/employee.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/master.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/devive.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/manager.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/manager_management.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Models/Employee.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Models/User.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/header.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/footer.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/sidebar.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/content.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/login/page_user_login_2.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/menu_header.blade.php",
+		"/C/Work/Internal_Website/Laravel5/config/auth.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin/login.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Employee.php",
+		"/C/Work/Internal_Website/Laravel5/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin_3/page_user_login_2.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/Admin/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/routes/web.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/layouts/page_header.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/Admin/hello.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/admin_3/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/index.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Middleware/VerifyCsrfToken.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/welcome.blade.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Kernel.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/contact.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/add.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/Admin/login.blade.php",
+		"/C/Work/Internal_Website/Laravel5/config/app.php",
+		"/C/Work/Internal_Website/Laravel5/config/database.php",
+		"/C/Work/Internal_Website/Laravel5/config/cache.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Middleware/example.php",
+		"/C/Work/Internal_Website/Laravel5/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/Work/Internal_Website/Laravel5/.env",
+		"/C/Work/Internal_Website/Laravel5/resources/lang/en/laravel.php",
+		"/C/Work/Internal_Website/Laravel5/resources/lang/vi/laravel.php",
+		"/C/Work/Internal_Website/Laravel5/composer.json",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/about.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/vue.html",
+		"/C/Work/Internal_Website/Laravel5/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/ConfigureLogging.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/beforeAdd.blade.php",
+		"/C/Work/Internal_Website/Laravel5/resources/views/pages/test.blade.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"count",
+			"GetOneEmp",
+			"PAGINATE_FALSE",
+			"PAGINATE_TRUE",
+			"format_employee_date",
+			"employeeName",
+			"::",
+			"'),\n",
+			"date",
+			"select",
+			"btn_reset",
+			"endif",
+			"endDate",
+			"startDate",
+			"TimesController",
+			"data",
+			"my_lang",
+			"title",
+			"my_lang",
+			"detail",
+			"GetAllEmp",
+			"GetData",
+			"employee",
+			"time_management_title",
+			"paginate",
+			"GetAllEmp",
+			"empName",
+			"employeeName",
+			"GetAllEmp",
+			"employeeCode",
+			"post",
+			"abc",
+			"form",
+			"result",
+			"empId",
+			".png",
+			".js",
+			".css",
+			"../",
+			".jpg",
+			".png",
+			".jpg",
+			".js",
+			".css",
+			"css",
+			"js",
+			"../",
+			"></",
+			"');\n",
+			"include",
+			"user",
+			"REGIONAL STATS",
+			"pages",
+			"components",
+			"begin footer",
+			"\");\n",
+			"RECENT ACTIVITIES",
+			"dashboard & statistics",
+			"\">\n",
+			"end conte",
+			"default das",
+			"all",
+			"http",
+			"login",
+			"layout.",
+			"ew order received. Please take care of ",
+			"Database server #12 overloaded. Please fix the issue.",
+			"FEEDS",
+			"Customer Support",
+			"layouts",
+			"components",
+			";\n",
+			"username",
+			"input",
+			"\">\n",
+			"index",
+			"make",
+			"dash",
+			"assets",
+			"laravel.log",
+			"storage",
+			"type",
+			"input",
+			"\t\t<",
+			"input",
+			"\t\t<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"admin/time_sheet",
+			"admin/sidebar",
+			"admin.sidebar",
+			".png') }}",
+			".js') }}",
+			".css') }}",
+			"{{ URL::asset('",
+			".jpg') }}",
+			".png') }}",
+			".jpg') }}",
+			".js') }}",
+			".css') }}",
+			"') }}",
+			"{{ URL::asset('",
+			"my_assets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1459,
+								1459
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3134,
+								3134
+							],
+							[
+								3136,
+								3136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.948822927329,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "awesome.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"17":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"21":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"23":
+				{
+					"group": 0,
+					"index": 7
+				},
+				"24":
+				{
+					"group": 0,
+					"index": 8
+				},
+				"45":
+				{
+					"group": 0,
+					"index": 9
+				},
+				"68":
+				{
+					"group": 0,
+					"index": 6
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.948822927329,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

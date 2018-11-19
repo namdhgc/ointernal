@@ -1,0 +1,36 @@
+.page-container {
+	/*background-color: #fff;*/
+}
+
+.page_header{
+	text-align: center;
+	color: #697882;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+.borderless td, .borderless th {
+	border: none !important;
+}
+
+.notification {
+	text-align: center;
+	color: red;
+}
+
+.centerForm {
+	max-width: 80%;
+	margin: 0px auto;
+}
+
+.boldText {
+	font-weight: 700;
+	color: #333;
+}
+
+.hr-table-row {
+	width: 65%;
+	margin: 0px auto;
+	padding: 10px;
+}

@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\SVN_Internal_website\\source\\internal"
+		}
+	],
+
+	"settings": {
+        "xdebug": {
+             "url": "http://internal_website.com/",
+        }
+    }
+}
